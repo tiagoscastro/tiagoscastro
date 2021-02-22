@@ -5,8 +5,6 @@ My name is Tiago Castro and I am a Brazilian junior front-end developer, a lover
 - 🔭 I’m currently working on a personal project
 - 🌱 I’m currently learning Next.js and Typescript
 
-## Technologies & Tools
-
 ## Github Stats
 
 <span>
